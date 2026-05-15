@@ -4,7 +4,8 @@
 .obsidian/hotkeys.json
 
 # IDE/editor config (keep if shared)
-.claude/
+.claude/*
+!.claude/skills/
 .codex/
 .cursor/
 
