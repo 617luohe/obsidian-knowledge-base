@@ -1,6 +1,6 @@
 ---
 name: raw-ingester
-description: 处理 raw/ 原始数据。扫描→分步盘问→确认意图→路由到对应执行技能。触发：raw、原始数据、摄入、导入数据、文件处理。
+description: [内部] 处理 raw/ 原始数据。扫描→分步盘问→确认意图→路由到对应执行技能。由 noteall 路由器调度。
 ---
 
 # raw-ingester — 原始数据摄入

@@ -7,6 +7,27 @@ description: 知识库流程路由器，主流程：输入→撰写→润色→�
 
 主流程：**Intake → Compose → Polish → Index**。目录结构参考各 `_INDEX.md`。
 
+## 〇、环境检测（每次启动首步）
+
+1. **检测 `.obsidian/` 目录** — 存在于当前工作目录 → **Vault 模式**，所有路径相对于当前目录
+2. **无 `.obsidian/`** → 读取 `./CLAUDE.md` 中 `## 默认知识库` 的 `默认知识库路径` → **外部项目模式**，所有产出路径相对于该 vault 根目录
+3. **无配置** → 询问用户："当前项目未配置默认知识库，笔记写入哪里？"（提供：① 手动指定路径 ② 在当前项目创建本地笔记目录 ③ 运行 `/0--claude` 初始化配置）
+
+**外部项目模式下的路径映射**（vault = 配置的默认知识库路径）：
+| 原相对路径 | 映射为 |
+|-----------|--------|
+| `4-Resources/` | `{vault}/4-Resources/` |
+| `7-Sources/` | `{vault}/7-Sources/` |
+| `0-Inbox/` | `{vault}/0-Inbox/` |
+| `1-Atlas/` | `{vault}/1-Atlas/` |
+| `2-Projects/` | `{vault}/2-Projects/` |
+| `3-Areas/` | `{vault}/3-Areas/` |
+| `5-Journal/` | `{vault}/5-Journal/` |
+| `6-People/` | `{vault}/6-People/` |
+| `raw/` | `{vault}/raw/` |
+
+**注意**：Wikilink 搜索范围始终为 vault 目录（`[[xxx]]` 在 vault 内匹配）；INDEX/MOC 操作也在 vault 内进行。
+
 ## 一、主流程路由
 
 ### ① Intake（内容进入）

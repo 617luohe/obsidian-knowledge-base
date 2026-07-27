@@ -1,6 +1,6 @@
 ---
 name: file-organizer
-description: 文件整理 Agent。扫描诊断→生成计划→批量执行（移动/重命名/合并）。触发：整理文件、文件乱了、归类、file-organizer。
+description: [内部] 文件整理 Agent。扫描诊断→生成计划→批量执行（移动/重命名/合并）。由 noteall 路由器调度。
 ---
 
 # file-organizer — 文件整理

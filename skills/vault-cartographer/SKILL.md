@@ -1,6 +1,6 @@
 ---
 name: vault-cartographer
-description: 知识库制图师。生成/更新 MOC、发现知识聚类、分析链接结构、诊断图谱健康。触发：制图、MOC、知识地图、图谱、链接分析。
+description: [内部] 知识库制图师。生成/更新 MOC、发现知识聚类、分析链接结构、诊断图谱健康。由 noteall 路由器调度。
 ---
 
 # vault-cartographer — 知识库制图

@@ -1,6 +1,6 @@
 ---
 name: note-polisher
-description: 笔记润色。检查元数据/结构/链接/内容/格式/Confidence，自动修复+建议修复。触发：润色、优化、修一下、提升质量。
+description: [内部] 笔记润色。检查元数据/结构/链接/内容/格式/Confidence，自动修复+建议修复。由 noteall 路由器调度。
 ---
 
 # note-polisher — 笔记润色

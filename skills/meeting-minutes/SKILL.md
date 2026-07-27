@@ -1,6 +1,6 @@
 ---
 name: meeting-minutes
-description: 创建结构化会议纪要。自动链接参会人、提取行动项和决策、生成跟进清单。触发：会议、会议纪要、开会、讨论、meeting。
+description: [内部] 创建结构化会议纪要。自动链接参会人、提取行动项和决策、生成跟进清单。由 noteall 路由器调度。
 ---
 
 # meeting-minutes — 会议纪要

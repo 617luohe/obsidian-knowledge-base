@@ -1,6 +1,6 @@
 ---
 name: note-composer
-description: 撰写高质量 Obsidian 笔记。自动匹配模板、推荐 wikilink、补全 frontmatter、规范化格式。触发：写笔记、创建笔记、记录想法。
+description: [内部] 撰写高质量 Obsidian 笔记。自动匹配模板、推荐 wikilink、补全 frontmatter、规范化格式。由 noteall 路由器调度。
 ---
 
 # note-composer — 笔记撰写
@@ -42,7 +42,15 @@ Q6: 深度？简明/标准/详尽
 3. Frontmatter 必填：title, tags(type/ + domain/), created, updated, status:draft
 4. 格式规范：`#` 层级不乱跳、`[[wikilink]]`、`-` 列表、callout 标准语法、代码块标注语言、中英文间留空格
 
-## 四、安全
+## 四、外部项目支持
+
+在非 vault 项目中调用时（由 noteall 环境检测判定）：
+- 文件写入路径 = `{vault}/{类型目录}/{文件名}.md`
+- Wikilink 搜索范围 = vault 根目录，搜索 `**/*.md`
+- 类型→目录映射不变，仅根路径从当前目录变为 vault 路径
+- 如用户明确指定"在当前项目创建"，则保持当前目录为根
+
+## 五、安全
 
 - 默认不自动创建文件，确认后写入
 - 更新模式不删除任何已有内容

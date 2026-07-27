@@ -1,6 +1,6 @@
 ---
 name: info-digester
-description: 外部信息消化为 Obsidian 笔记。支持 summary/detailed/atomic 三种深度。触发：消化、分析、提取、这篇文章、这个网页、整理成笔记。
+description: [内部] 外部信息消化为 Obsidian 笔记。支持 summary/detailed/atomic 三种深度。由 noteall 路由器调度。
 ---
 
 # info-digester — 信息消化

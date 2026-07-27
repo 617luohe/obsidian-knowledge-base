@@ -1,6 +1,6 @@
 ---
 name: batch-curator
-description: 批量知识整理。扫描 raw/ 原始文件，自动分析→分类→生成笔记→归档。触发：批量整理、批量导入、curate、整理文件夹。
+description: [内部] 批量知识整理。扫描 raw/ 原始文件，自动分析→分类→生成笔记→归档。由 noteall 路由器调度。
 ---
 
 # batch-curator — 批量知识整理

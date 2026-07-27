@@ -1,6 +1,6 @@
 ---
 name: workflow-wrapup
-description: 收尾归档。将已处理文件从 raw/ 归档到 7-Sources/，更新项目状态，生成处理报告。触发：收尾、归档、wrapup、cleanup。
+description: [内部] 收尾归档。将已处理文件从 raw/ 归档到 7-Sources/，更新项目状态，生成处理报告。由 noteall 路由器调度。
 ---
 
 # workflow-wrapup — 收尾归档

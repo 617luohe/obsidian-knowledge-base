@@ -1,6 +1,6 @@
 ---
 name: reading-digester
-description: 阅读笔记专家。处理书籍/长文的高亮、批注、章节摘要，支持渐进式阅读+书架管理。触发：读书笔记、看书、阅读、高亮、书摘。
+description: [内部] 阅读笔记专家。处理书籍/长文的高亮、批注、章节摘要，支持渐进式阅读+书架管理。由 noteall 路由器调度。
 ---
 
 # reading-digester — 阅读消化

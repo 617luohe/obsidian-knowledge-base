@@ -1,6 +1,6 @@
 ---
 name: index-keeper
-description: 索引维护。自主维护所有一级文件夹 _INDEX.md：增量更新、缺失补全、健康报告。触发：维护索引、更新INDEX、索引健康检查。
+description: [内部] 索引维护。自主维护所有一级文件夹 _INDEX.md：增量更新、缺失补全、健康报告。由 noteall 路由器调度。
 ---
 
 # index-keeper — 索引维护

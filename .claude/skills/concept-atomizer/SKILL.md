@@ -1,6 +1,6 @@
 ---
 name: concept-atomizer
-description: 长笔记拆解为原子概念笔记。识别可独立知识单元→创建笔记→建立互链→生成MOC。触发：拆解、原子化、拆分、atomize。
+description: [内部] 长笔记拆解为原子概念笔记。识别可独立知识单元→创建笔记→建立互链→生成MOC。由 noteall 路由器调度。
 ---
 
 # concept-atomizer — 概念原子化

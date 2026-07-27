@@ -1,6 +1,6 @@
 ---
 name: daily-concierge
-description: 日记管家。创建/回顾日记，提取知识种子转永久笔记，周期回顾。触发：日记、周记、月记、回顾、今天、daily。
+description: [内部] 日记管家。创建/回顾日记，提取知识种子转永久笔记，周期回顾。由 noteall 路由器调度。
 ---
 
 # daily-concierge — 日记管家
