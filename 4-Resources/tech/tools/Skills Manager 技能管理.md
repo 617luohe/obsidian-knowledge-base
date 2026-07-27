@@ -166,7 +166,7 @@ npm run tauri build
 ~/.skills-manager/          # 中央技能库
 ├── note-composer/          # 自定义技能
 ├── info-digester/
-├── vault-wizard/
+├── noteall/
 └── ...
 
 项目/.claude/skills/        # 项目级技能
@@ -183,7 +183,7 @@ npm run tauri build
 
 | 场景名 | 包含技能 | 用途 |
 |--------|---------|------|
-| 知识库写作 | note-composer, note-polisher, vault-wizard | 日常笔记撰写 |
+| 知识库写作 | note-composer, note-polisher, noteall | 日常笔记撰写 |
 | 内容消化 | info-digester, reading-digester, concept-atomizer | 外部内容处理 |
 | 知识库维护 | vault-cartographer, note-polisher | 定期审计和维护 |
 | 会议记录 | meeting-minutes | 会议场景 |
