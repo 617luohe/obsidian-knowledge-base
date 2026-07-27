@@ -1,0 +1,1 @@
+# Agents — 工作副本\n\n自定义 Agent 定义文件放在这里，修改后同步到 `.claude/agents/`。\n\n## Agent 类型\n\nAgent 定义文件 (.md) 通过 frontmatter 声明名称、描述、可用工具和模型。\n\n## 规划的 Agent\n\n- **index-keeper** — 索引维护智能体\n- **file-organizer** — 文件整理智能体（待开发）\n- **article-writer** — 深度长文写作 Agent（待开发）\n
