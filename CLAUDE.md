@@ -14,7 +14,7 @@ grep -rl "\[\[目标笔记\]\]" --include="*.md" .
 ## 创建笔记
 
 ### 目录
-`1-Atlas/`(MOC) `2-Projects/` `3-Daily/` `4-Resources/`(工具/文章) `5-Ideas/`
+`0-Inbox/`(捕获) `1-Atlas/`(MOC) `2-Projects/` `3-Areas/` `4-Resources/`(概念笔记) `5-Journal/`(日/周/月) `6-People/` `7-Sources/`(来源，按领域子文件夹) `8-Templates/` `9-System/`(规范) + `assets/ raw/`
 
 ### Frontmatter
 ```yaml
