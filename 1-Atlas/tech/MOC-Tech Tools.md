@@ -34,6 +34,12 @@ status: active
 - [[科研审批单开发记录]] — 5 个 Issue 任务拆解，已全部完成
 - [[科研审批单数据索引]] — 2026 年 4–7 月所有审批单数据目录
 
+## MCP 服务
+
+- [[MCP Memory 服务安装与使用]] — 本地知识图谱记忆服务，跨会话持久化
+- [[MCP GitHub 服务安装与使用]] — GitHub 官方 MCP，仓库/Issue/PR 管理
+- [[Context7 MCP 服务安装与使用]] — 实时库文档查询，替代过时训练数据
+
 ## 子主题
 
 ### 环境与部署
@@ -63,7 +69,7 @@ SORT deadline ASC
 ## 待探索
 
 - [ ] Cursor 内置 AI 与 Claude Code 扩展的深度对比
-- [ ] MCP 协议的高级配置
+- [x] MCP 协议的高级配置 ✅ 2026-07-31
 - [ ] 更多 AI 编程工具的接入（Codex、Gemini CLI、Windsurf）
 
 ## 最近更新
