@@ -24,6 +24,9 @@ auto-indexed: 2026-07-27 16:00
 
 <!-- INDEX-KEEPER-MANAGED:START -->
 
+### 根目录 — 方法论（1 篇）
+- [[没有调查就没有发言权]] — 调查研究方法论解读
+
 ### tech/tools — AI 编程工具（12 篇）
 - [[tech/tools/MOC-my-skills v2]] — my-skills 技能体系 v2 总览
 - [[tech/tools/my-skills vocabulary 核心层详解]] — vocabulary 技能核心层分析
