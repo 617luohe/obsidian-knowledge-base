@@ -5,9 +5,7 @@
 .obsidian/plugins/
 
 # IDE/editor config (keep if shared)
-.claude/*
-!.claude/skills/
-.claude/skills/obsidian-vault/
+.claude/
 .codex/
 .cursor/
 
