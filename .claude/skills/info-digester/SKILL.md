@@ -1,6 +1,7 @@
 ---
 name: info-digester
-description: [内部] 外部信息消化为 Obsidian 笔记。支持 summary/detailed/atomic 三种深度。由 noteall 路由器调度。
+layer: my-note
+description: [内部] 外部信息消化为结构化笔记。支持 summary/detailed/atomic 三种深度。由 noteall 路由器调度。
 ---
 
 # info-digester — 信息消化
@@ -17,8 +18,8 @@ Q5: 重点关注方向？（可选）
 
 ## 二、内容获取
 
-- URL → defuddle skill 获取清洁正文
-- PDF → pdf skill 提取文本
+- URL → 获取清洁正文
+- PDF → 提取文本
 - 文本 → 直接使用
 - 视频 → 有字幕当文本处理，无字幕需用户提供
 
@@ -28,7 +29,7 @@ Q5: 重点关注方向？（可选）
 300字结构化摘要（一句话+3核心观点+是否值得读），对话中输出，不创建文件。
 
 ### detailed（默认）
-创建完整来源笔记（7-Sources/），使用 `tpl-source.md` 模板：
+创建完整来源笔记（7-Sources/）：
 - 元数据提取（title/author/date/url/source-type）→ 核心论点（3-5个）→ 关键概念+wikilink搜索 → 原文引用 → 个人思考提示 → 行动项
 - AI 推断用 `> [!ai-guess]`，AI 解读用 `> [!ai-interpretation]`，原文引用用 `> [!quote]`
 
@@ -49,3 +50,9 @@ Q5: 重点关注方向？（可选）
 ## 五、收尾
 
 消化完成后输出报告（新建文件列表 + 已有笔记链接 + 推荐行动）。检查是否需要更新对应 MOC。不绕过付费墙，AI 推测内容强制标注。
+
+## MUST 规则
+
+1. **消化前必须盘问深度和领域。** 默认 detailed，用户可指定 summary/atomic。
+2. **AI 推测内容必须标注 `> [!ai-guess]`。** 不绕过付费墙。
+3. **atomic 模式必须先检索 vault 去重。** 避免创建重复概念笔记。

@@ -1,5 +1,6 @@
 ---
 name: reading-digester
+layer: my-note
 description: [内部] 阅读笔记专家。处理书籍/长文的高亮、批注、章节摘要，支持渐进式阅读+书架管理。由 noteall 路由器调度。
 ---
 
@@ -29,3 +30,9 @@ info-digester 的书籍专项分支：分章节渐进处理、高亮/批注导�
 ## 四、书架管理
 
 读取 7-Sources/ 中 `source-type: book` 笔记，按进度（want-to-read/reading/completed/abandoned）分类，输出阅读统计。
+
+## MUST 规则
+
+1. **高亮和批注必须区分标注。** 高亮用 `> "文本"`，批注用 `> [!thought]`。
+2. **全书回顾必须提取行动项。** 不只是总结，要可执行。
+3. **跨书概念冲突必须标注 `> [!disagreement]`。**
