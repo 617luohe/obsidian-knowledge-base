@@ -31,18 +31,21 @@ status: active
 
 ## 相关项目
 
-```dataview
-TABLE status, deadline
-FROM "2-Projects"
-WHERE contains(tags, "domain/tech")
-SORT deadline ASC
-```
+<!-- 静态快照，MOC 审计时重算 -->
+
+| 项目 | 状态 |
+|------|------|
+| [[冷热集批排产项目]] | active |
 
 ## 最近更新
 
-```dataview
-TABLE updated, confidence
-FROM "4-Resources/tech"
-SORT updated DESC
-LIMIT 10
-```
+<!-- 静态快照，MOC 审计时重算 -->
+
+| 笔记 | 更新 |
+|------|------|
+| [[MCP Memory 服务安装与使用]] | 2026-07-31 |
+| [[MCP GitHub 服务安装与使用]] | 2026-07-31 |
+| [[Context7 MCP 服务安装与使用]] | 2026-07-31 |
+| [[科研审批单自动生成工具]] | 2026-07-27 |
+| [[科研审批单数据索引]] | 2026-07-27 |
+| [[科研审批单开发记录]] | 2026-07-27 |

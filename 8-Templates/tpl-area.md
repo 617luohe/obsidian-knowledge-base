@@ -26,12 +26,11 @@ last-review: {{date}}
 
 ## 活跃项目
 
-```dataview
-TABLE status, deadline, priority
-FROM "2-Projects"
-WHERE contains(tags, "domain/{{domain}}") AND status = "active"
-SORT priority ASC
-```
+<!-- 静态快照，MOC/索引维护时重算 -->
+
+| 项目 | 状态 | 优先级 |
+|------|------|--------|
+| [[项目A]] | active | P1 |
 
 ## 关键指标
 

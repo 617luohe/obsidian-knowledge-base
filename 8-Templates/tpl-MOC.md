@@ -32,12 +32,11 @@ status: active
 
 ## 相关项目
 
-```dataview
-TABLE status, deadline
-FROM "2-Projects"
-WHERE contains(tags, "domain/{{domain}}")
-SORT deadline ASC
-```
+<!-- 静态快照，MOC 审计时重算 -->
+
+| 项目 | 状态 |
+|------|------|
+| [[项目A]] | active |
 
 ## 延伸阅读
 
@@ -51,10 +50,8 @@ SORT deadline ASC
 
 ## 最近更新
 
-```dataview
-TABLE updated, confidence
-FROM "4-Resources"
-WHERE contains(tags, "domain/{{domain}}")
-SORT updated DESC
-LIMIT 10
-```
+<!-- 静态快照，MOC 审计时重算 -->
+
+| 笔记 | 更新 |
+|------|------|
+| [[笔记A]] | YYYY-MM-DD |

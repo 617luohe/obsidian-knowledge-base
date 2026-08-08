@@ -29,13 +29,13 @@ period: "{{year}}-{{month}}"
 
 ## 知识库统计
 
-```dataview
-TABLE status, confidence
-FROM "4-Resources"
-WHERE created >= date({{start-date}}) AND created <= date({{end-date}})
-```
+<!-- 静态快照，月末审计时重算 -->
 
 本月新增笔记：XX 篇
+
+| 本月笔记 | 状态 |
+|----------|------|
+| [[笔记A]] | draft |
 
 ## 习惯追踪
 
