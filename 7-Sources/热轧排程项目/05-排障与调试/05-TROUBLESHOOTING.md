@@ -1,3 +1,14 @@
+---
+title: "05-TROUBLESHOOTING"
+tags:
+  - type/source
+  - domain/manufacturing
+created: 2026-05-27
+updated: 2026-08-08
+status: draft
+confidence: seed
+---
+
 # 故障排查手册（症状 -> 定位 -> 处理）
 
 本文用于线上/联调快速定位，不替代深度算法文档。

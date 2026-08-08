@@ -1,3 +1,14 @@
+---
+title: "PRD_排程评分集成模块"
+tags:
+  - type/source
+  - domain/manufacturing
+created: 2026-05-27
+updated: 2026-08-08
+status: draft
+confidence: seed
+---
+
 # PRD: 排程评分集成模块
 
 ## Problem Statement

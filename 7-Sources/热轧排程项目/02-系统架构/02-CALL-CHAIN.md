@@ -1,3 +1,14 @@
+---
+title: "02-CALL-CHAIN"
+tags:
+  - type/source
+  - domain/manufacturing
+created: 2026-05-27
+updated: 2026-08-08
+status: draft
+confidence: seed
+---
+
 # 主流程调用链（main -> entry -> unit_process）
 
 本文描述运行时真实调用链，覆盖四类入口：

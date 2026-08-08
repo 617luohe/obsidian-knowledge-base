@@ -1,3 +1,14 @@
+---
+title: "08-input-tables-schema"
+tags:
+  - type/source
+  - domain/manufacturing
+created: 2026-05-27
+updated: 2026-08-08
+status: draft
+confidence: seed
+---
+
 # 输入表契约（读库视角）
 
 本文描述排程主链读取的关键输入表与用途。完整字段以 `config/unit_config.json` 为准。

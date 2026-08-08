@@ -1,3 +1,14 @@
+---
+title: "01-SCENARIO-NAV"
+tags:
+  - type/source
+  - domain/manufacturing
+created: 2026-05-27
+updated: 2026-08-08
+status: draft
+confidence: seed
+---
+
 # 场景导航（开发 / 联调 / 排障）
 
 本文按高频工作场景组织，不按代码文件平铺。

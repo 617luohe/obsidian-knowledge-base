@@ -1,3 +1,14 @@
+---
+title: "09-output-tables-schema"
+tags:
+  - type/source
+  - domain/manufacturing
+created: 2026-05-27
+updated: 2026-08-08
+status: draft
+confidence: seed
+---
+
 # 输出表契约（写库视角）
 
 本文定义排程结果写库的关键表、关键字段和口径差异。

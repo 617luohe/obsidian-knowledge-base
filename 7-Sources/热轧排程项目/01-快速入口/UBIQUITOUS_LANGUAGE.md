@@ -1,3 +1,14 @@
+---
+title: "UBIQUITOUS_LANGUAGE"
+tags:
+  - type/source
+  - domain/manufacturing
+created: 2026-05-27
+updated: 2026-08-08
+status: draft
+confidence: seed
+---
+
 # 统一语言 / Ubiquitous Language
 
 > 热轧排程评价体系 — 领域术语表

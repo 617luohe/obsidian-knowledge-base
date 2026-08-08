@@ -1,3 +1,14 @@
+---
+title: "PRD_计划评分模块"
+tags:
+  - type/source
+  - domain/manufacturing
+created: 2026-05-27
+updated: 2026-08-08
+status: draft
+confidence: seed
+---
+
 # PRD — 热轧排程计划评分模块
 
 ## Problem Statement

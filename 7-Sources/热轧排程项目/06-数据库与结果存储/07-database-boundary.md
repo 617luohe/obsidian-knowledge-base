@@ -1,3 +1,14 @@
+---
+title: "07-database-boundary"
+tags:
+  - type/source
+  - domain/manufacturing
+created: 2026-05-27
+updated: 2026-08-08
+status: draft
+confidence: seed
+---
+
 # 数据库边界（读写职责与失败语义）
 
 本文定义“哪些代码负责读库/写库、何时写、失败时怎样表现”。

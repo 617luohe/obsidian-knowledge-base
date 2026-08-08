@@ -1,13 +1,17 @@
 ---
 created: 2026-07-30
+updated: 2026-08-08
 tags:
+  - type/resource
+  - domain/tech/tools
   - claude-code
   - hooks
   - python
   - ai-tools
   - configuration
   - project-structure
-type: resource
+status: draft
+confidence: seed
 ---
 
 # Claude Code Hooks 体系分析

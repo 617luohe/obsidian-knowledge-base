@@ -1,3 +1,14 @@
+---
+title: "03-CONFIG-QUICK-REF"
+tags:
+  - type/source
+  - domain/manufacturing
+created: 2026-05-27
+updated: 2026-08-08
+status: draft
+confidence: seed
+---
+
 # 配置速查（setting + config）
 
 本文只覆盖“关键且高频改动”的配置项，避免全量键表过重。

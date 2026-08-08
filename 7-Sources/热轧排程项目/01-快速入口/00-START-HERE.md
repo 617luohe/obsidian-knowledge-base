@@ -1,3 +1,14 @@
+---
+title: "00-START-HERE"
+tags:
+  - type/source
+  - domain/manufacturing
+created: 2026-05-27
+updated: 2026-08-08
+status: draft
+confidence: seed
+---
+
 # mark_by_line 文档入口（5分钟）
 
 本文是项目文档总入口。目标是让首次接手同学在 5-10 分钟内找到：

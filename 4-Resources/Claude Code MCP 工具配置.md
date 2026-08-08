@@ -1,11 +1,15 @@
 ---
 created: 2026-07-30
+updated: 2026-08-08
 tags:
+  - type/resource
+  - domain/tech/tools
   - claude-code
   - mcp
   - ai-tools
   - configuration
-type: resource
+status: draft
+confidence: seed
 ---
 
 # Claude Code MCP 工具配置

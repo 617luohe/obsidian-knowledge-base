@@ -1,3 +1,14 @@
+---
+title: "README"
+tags:
+  - type/source
+  - domain/manufacturing
+created: 2026-05-27
+updated: 2026-08-08
+status: draft
+confidence: seed
+---
+
 # 07-项目周报
 
 智能所项目周报归档（2026年4-5月）：

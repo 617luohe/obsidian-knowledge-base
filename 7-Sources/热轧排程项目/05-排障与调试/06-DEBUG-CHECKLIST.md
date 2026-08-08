@@ -1,3 +1,14 @@
+---
+title: "06-DEBUG-CHECKLIST"
+tags:
+  - type/source
+  - domain/manufacturing
+created: 2026-05-27
+updated: 2026-08-08
+status: draft
+confidence: seed
+---
+
 # 联调与调试检查清单
 
 本文给出“最小可执行”的联调检查步骤，避免遗漏基础项。

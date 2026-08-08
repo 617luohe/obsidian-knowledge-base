@@ -1,3 +1,14 @@
+---
+title: "TASKS_计划评分模块"
+tags:
+  - type/source
+  - domain/manufacturing
+created: 2026-05-27
+updated: 2026-08-08
+status: draft
+confidence: seed
+---
+
 # 计划评分模块 — 任务拆解
 
 按依赖顺序排列的垂直切片，每个切片贯穿其所在层的全部层级（建表/工具 → 逻辑 → 测试/验证）。

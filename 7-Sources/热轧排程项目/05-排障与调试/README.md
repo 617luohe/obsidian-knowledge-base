@@ -1,3 +1,14 @@
+---
+title: "README"
+tags:
+  - type/source
+  - domain/manufacturing
+created: 2026-05-27
+updated: 2026-08-08
+status: draft
+confidence: seed
+---
+
 # 05-排障与调试
 
 | 文件 | 说明 |

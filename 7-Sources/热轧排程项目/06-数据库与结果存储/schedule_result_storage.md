@@ -1,3 +1,14 @@
+---
+title: "schedule_result_storage"
+tags:
+  - type/source
+  - domain/manufacturing
+created: 2026-05-27
+updated: 2026-08-08
+status: draft
+confidence: seed
+---
+
 # 排产结果入库与 `completed_plan.exit_rate` 统计口径
 
 本文说明排产明细写库侧「物料类别占比」字段的含义，便于报表、核对与下游对接。实现入口：`src/unit_process.py` 中 `UnitProcessor.build_result_data()`、`merge_result_with_pool_for_exit_rate()`、`exit_rate_numerators_vs_pool()`。

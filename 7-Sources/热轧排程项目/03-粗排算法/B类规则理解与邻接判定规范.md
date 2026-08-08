@@ -1,3 +1,14 @@
+---
+title: "B类规则理解与邻接判定规范"
+tags:
+  - type/source
+  - domain/manufacturing
+created: 2026-05-27
+updated: 2026-08-08
+status: draft
+confidence: seed
+---
+
 # B类规则理解与邻接判定规范
 
 > 目的：统一粗排中 B 类邻接判定的业务口径与实现口径，避免“差值方向”“边界值”“过渡材方向”理解偏差导致误判。
