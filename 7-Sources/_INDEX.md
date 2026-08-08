@@ -42,17 +42,17 @@ auto-indexed: 2026-07-31
 
 ### skills-legacy — my-skills 旧版归档（14 篇）
 - [[skills-legacy/MOC-my-skills 使用指南]] — 旧版 skills 使用指南总览
-- [[skills-legacy/skill-0 通用帮助]] — skill-0 帮助文档
-- [[skills-legacy/skill-1 Claude.md 管理]] — skill-1 文档
-- [[skills-legacy/skill-2 Obsidian 知识库]] — skill-2 文档
-- [[skills-legacy/skill-3 会议纪要]] — skill-3 文档
-- [[skills-legacy/skill-4 日记与回顾]] — skill-4 文档
-- [[skills-legacy/skill-5 内容创作]] — skill-5 文档
-- [[skills-legacy/skill-6 批量整理]] — skill-6 文档
-- [[skills-legacy/skill-7 任务拆解]] — skill-7 文档
-- [[skills-legacy/skill-8 项目交付]] — skill-8 文档
-- [[skills-legacy/skill-9 收尾归档]] — skill-9 文档
-- [[skills-legacy/use-skills 智能路由]] — 路由机制文档
+- [[skills-legacy/skill-0-初始化CLAUDE 使用指南]] — skill-0 帮助文档
+- [[skills-legacy/skill-1-规划 使用指南]] — skill-1 文档
+- [[skills-legacy/skill-2-分析 使用指南]] — skill-2 文档
+- [[skills-legacy/skill-3-原型 使用指南]] — skill-3 文档
+- [[skills-legacy/skill-4-开发 使用指南]] — skill-4 文档
+- [[skills-legacy/skill-5-检查 使用指南]] — skill-5 文档
+- [[skills-legacy/skill-6-优化 使用指南]] — skill-6 文档
+- [[skills-legacy/skill-7-调试 使用指南]] — skill-7 文档
+- [[skills-legacy/skill-8-版本管理 使用指南]] — skill-8 文档
+- [[skills-legacy/skill-9-最后整理 使用指南]] — skill-9 文档
+- [[skills-legacy/skill-use-skills 使用指南]] — 路由机制文档
 - *等 14 篇*（2026-07-27 归档）
 
 ### 热轧排程项目 — 项目知识库（29 篇）

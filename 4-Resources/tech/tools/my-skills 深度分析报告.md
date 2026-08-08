@@ -10,7 +10,7 @@ updated: 2026-07-27
 status: published
 confidence: budding
 source: "https://github.com/617luohe/my-skills"
-related: "[[my-skills v2 开发工作流技能体系]]"
+related: "[[my-skills 开发工作流技能体系]]"
 ---
 
 > 📌 **v2 更新（2026-07-27）**：基于 v2 架构（24 技能，三层结构）重新分析。v1 版本的分析报告仍保留在原文件中，本次为全面重写。
@@ -362,7 +362,7 @@ vocabulary 层                  → 工具箱里的标准工具
 
 ## 九、相关笔记
 
-- [[my-skills v2 开发工作流技能体系]] — 全体系概览与技能详述
+- [[my-skills 开发工作流技能体系]] — 全体系概览与技能详述
 - [[my-skills vocabulary 核心层详解]] — 5 个 vocabulary 技能深度解析
 - [[my-skills 部署与治理指南]] — 同步脚本 + manifest + 治理验证
 - [[MOC-my-skills v2]] — v2 技能体系总索引

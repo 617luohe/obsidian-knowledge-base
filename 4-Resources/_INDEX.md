@@ -35,8 +35,8 @@ auto-indexed: 2026-07-27 16:00
 - [[tech/tools/my-skills 部署与治理指南]] — 部署和治理最佳实践
 - [[tech/tools/Skills Manager 技能管理]] — Skills Manager 使用指南
 - [[tech/tools/Claude Code Windows 安装与配置]] — Windows 环境配置
-- [[tech/tools/Cursor 配置 Claude Code 插件]] — Cursor IDE 集成
-- [[tech/tools/CC Switch 配置]] — CC Switch 工具配置
+- [[tech/tools/Cursor 中配置 Claude Code 插件]] — Cursor IDE 集成
+- [[tech/tools/CC Switch 配置与使用]] — CC Switch 工具配置
 - [[tech/tools/科研审批单自动生成工具]] — 审批单生成工具介绍
 - [[tech/tools/科研审批单开发记录]] — 开发过程记录
 - [[tech/tools/科研审批单数据索引]] — 数据索引与参考
@@ -52,17 +52,17 @@ auto-indexed: 2026-07-27 16:00
 - [[finance/trading/交易知行矛盾与纪律建设方案]] — 交易心理与纪律
 
 ### life/grooming — 个人护理（16 篇）
-- [[life/grooming/刀片锋利度多维分析]] — 刀片性能分析
+- [[life/grooming/刀片锋利度多维度分析]] — 刀片性能分析
 - [[life/grooming/双面安全剃须刀刀片数据横评]] — 刀片对比评测
 - [[life/grooming/DE 安全剃须刀架横评]] — 刀架对比评测
-- [[life/grooming/剃须刷-碗-皂膏-须前-须后-配件横评]] — 配件横评
-- [[life/grooming/直上直下-J-Hook-吉列 Slide 剃须法]] — 剃须方法
-- [[life/grooming/拉平皮肤-湿剃准备-须后护理]] — 护理方法
+- [[life/grooming/剃须刷横评]]、[[life/grooming/剃须碗横评]]、[[life/grooming/剃须皂膏横评]]、[[life/grooming/须前产品横评]]、[[life/grooming/须后产品横评]]、[[life/grooming/须后护理]] — 配件横评
+- [[life/grooming/直上直下剃须法]]、[[life/grooming/J-Hook 剃须法]]、[[life/grooming/吉列 Slide 剃须法]] — 剃须方法
+- [[life/grooming/拉平皮肤技巧]]、[[life/grooming/湿剃准备流程]]、[[life/grooming/须后护理]] — 护理方法
 - [[life/grooming/吉列盒刀产品线横评]] — 盒刀横评
 - *等 16 篇笔记*
 
 ### tech/python — Python 开发（4 篇）
-- [[tech/python/PyCharm Conda 环境报错]] — IDE 环境问题
+- [[tech/python/PyCharm 添加 Conda 环境报错 lateinit property 解决方案]] — IDE 环境问题
 - [[tech/python/ja-netfilter 原理]] — 许可证代理原理
 - [[tech/python/Javaagent 注入机制]] — JVM 代理注入
 - [[tech/python/JetBrains 许可证验证机制]] — 许可证系统

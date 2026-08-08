@@ -9,7 +9,7 @@ created: 2026-07-27
 status: published
 confidence: budding
 source: "https://github.com/617luohe/my-skills"
-related: "[[my-skills v2 开发工作流技能体系]]"
+related: "[[my-skills 开发工作流技能体系]]"
 ---
 
 # my-skills vocabulary 核心层详解
@@ -239,6 +239,6 @@ multi-worker ──→ tdd（worker 内 TDD 开发）
 
 ## 五、相关笔记
 
-- [[my-skills v2 开发工作流技能体系]] — 全体系概览
-- [[my-skills v2 深度分析报告]] — 架构分析与设计哲学
+- [[my-skills 开发工作流技能体系]] — 全体系概览
+- [[my-skills 深度分析报告]] — 架构分析与设计哲学
 - [[my-skills 部署与治理指南]] — 部署与治理

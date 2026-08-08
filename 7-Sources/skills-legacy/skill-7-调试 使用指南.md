@@ -13,7 +13,7 @@ source: "https://github.com/617luohe/my-skills"
 skill: "7-调试"
 ---
 
-> ⚠️ **已弃用** — 此技能在 my-skills v2（2026-07）中已被重编号为 `4-调试`，核心诊断逻辑已提取到 `vocabulary/diagnosing-bugs`。请参考 [[my-skills v2 开发工作流技能体系]] 了解最新结构。
+> ⚠️ **已弃用** — 此技能在 my-skills v2（2026-07）中已被重编号为 `4-调试`，核心诊断逻辑已提取到 `vocabulary/diagnosing-bugs`。请参考 [[my-skills 开发工作流技能体系]] 了解最新结构。
 
 # 7-调试 — 结构化调试
 

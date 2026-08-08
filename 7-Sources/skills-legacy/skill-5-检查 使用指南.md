@@ -13,7 +13,7 @@ source: "https://github.com/617luohe/my-skills"
 skill: "5-检查"
 ---
 
-> ⚠️ **已弃用** — 此技能在 my-skills v2（2026-07）中已被重编号为 `3-检查`，核心审查逻辑已提取到 `vocabulary/code-review`，并新增了输入契约自动路由（Review/建单/架构评估/转调试）。请参考 [[my-skills v2 开发工作流技能体系]] 了解最新结构。
+> ⚠️ **已弃用** — 此技能在 my-skills v2（2026-07）中已被重编号为 `3-检查`，核心审查逻辑已提取到 `vocabulary/code-review`，并新增了输入契约自动路由（Review/建单/架构评估/转调试）。请参考 [[my-skills 开发工作流技能体系]] 了解最新结构。
 
 # 5-检查 — 代码审查与验收
 

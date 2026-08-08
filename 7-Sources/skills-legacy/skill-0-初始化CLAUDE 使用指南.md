@@ -13,7 +13,7 @@ source: "https://github.com/617luohe/my-skills"
 skill: "0-初始化CLAUDE"
 ---
 
-> ⚠️ **已弃用** — 此技能在 my-skills v2（2026-07）中已被重命名为 `0--claude`，编号格式从 `0-名称` 改为 `0--english-name`。请参考 [[my-skills v2 开发工作流技能体系]] 了解最新结构。
+> ⚠️ **已弃用** — 此技能在 my-skills v2（2026-07）中已被重命名为 `0--claude`，编号格式从 `0-名称` 改为 `0--english-name`。请参考 [[my-skills 开发工作流技能体系]] 了解最新结构。
 
 # 0-初始化CLAUDE — CLAUDE.md 初始化器
 

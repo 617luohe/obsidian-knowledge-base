@@ -325,7 +325,7 @@ python scripts/validate_skills.py --check-deployments
 
 ## 八、相关笔记
 
-- [[my-skills v2 深度分析报告]] — 架构分析 + 设计哲学 + 优劣势
+- [[my-skills 深度分析报告]] — 架构分析 + 设计哲学 + 优劣势
 - [[my-skills vocabulary 核心层详解]] — 5 个 vocabulary 技能深度解析
 - [[my-skills 部署与治理指南]] — 同步脚本 + manifest + 治理验证
 - [[MOC-my-skills v2]] — v2 技能体系总索引

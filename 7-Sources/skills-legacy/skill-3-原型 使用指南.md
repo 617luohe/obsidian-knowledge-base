@@ -13,7 +13,7 @@ source: "https://github.com/617luohe/my-skills"
 skill: "3-原型"
 ---
 
-> ⚠️ **已弃用** — 此技能在 my-skills v2（2026-07）中已被移除，其"原型验证"功能已整合到 `1-规划` 的原型验证门禁阶段（`docs/prototypes/`）。请参考 [[my-skills v2 开发工作流技能体系]] 了解最新结构。
+> ⚠️ **已弃用** — 此技能在 my-skills v2（2026-07）中已被移除，其"原型验证"功能已整合到 `1-规划` 的原型验证门禁阶段（`docs/prototypes/`）。请参考 [[my-skills 开发工作流技能体系]] 了解最新结构。
 
 # 3-原型 — 快速原型验证
 

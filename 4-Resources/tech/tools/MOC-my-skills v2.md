@@ -7,6 +7,7 @@ tags:
   - topic/skills-guide
 created: 2026-07-27
 status: active
+confidence: evergreen
 ---
 
 # MOC-my-skills v2
@@ -15,9 +16,9 @@ status: active
 
 ## 🏗️ 架构概览
 
-- [[my-skills v2 开发工作流技能体系]] — **总入口**，体系全景 + 24 技能详述 + v1→v2 对照
+- [[my-skills 开发工作流技能体系]] — **总入口**，体系全景 + 24 技能详述 + v1→v2 对照
 - [[my-skills vocabulary 核心层详解]] — 5 个 vocabulary 可复用核心深度解析
-- [[my-skills v2 深度分析报告]] — 架构分析 + 设计哲学 + 优劣势 + 迁移指南
+- [[my-skills 深度分析报告]] — 架构分析 + 设计哲学 + 优劣势 + 迁移指南
 - [[my-skills 部署与治理指南]] — sync-skills.ps1 + manifest + 治理验证
 
 ## 🚪 入口
@@ -28,9 +29,9 @@ status: active
 
 | 技能 | 用途 | 详见 |
 |------|------|------|
-| `0--dialectic` | 六步矛盾分析法，战略决策 | [[my-skills v2 开发工作流技能体系#0--dialectic]] |
-| `0--laoyoutiao` | 面向甲方的交付节奏管理 | [[my-skills v2 开发工作流技能体系#0--laoyoutiao]] |
-| `multi-worker` | 并行开发编排器（实验性） | [[my-skills v2 开发工作流技能体系#multi-worker]] |
+| `0--dialectic` | 六步矛盾分析法，战略决策 | [[my-skills 开发工作流技能体系#0--dialectic]] |
+| `0--laoyoutiao` | 面向甲方的交付节奏管理 | [[my-skills 开发工作流技能体系#0--laoyoutiao]] |
+| `multi-worker` | 并行开发编排器（实验性） | [[my-skills 开发工作流技能体系#multi-worker]] |
 
 ## 🔧 开发流程（阶段 0-6）
 
@@ -78,11 +79,11 @@ status: active
 
 | 你是 | 先读这些 |
 |------|---------|
-| **想了解全局** | [[my-skills v2 开发工作流技能体系]] |
-| **想理解架构设计** | [[my-skills v2 深度分析报告]] |
+| **想了解全局** | [[my-skills 开发工作流技能体系]] |
+| **想理解架构设计** | [[my-skills 深度分析报告]] |
 | **想深入 vocabulary 层** | [[my-skills vocabulary 核心层详解]] |
 | **想部署或治理** | [[my-skills 部署与治理指南]] |
-| **从 v1 迁移** | [[my-skills v2 深度分析报告#v1-v2-迁移指南]] |
+| **从 v1 迁移** | [[my-skills 深度分析报告#v1-v2-迁移指南]] |
 
 ## 📦 历史归档
 

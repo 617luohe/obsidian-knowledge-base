@@ -13,7 +13,7 @@ source: "https://github.com/617luohe/my-skills"
 skill: "use-skills"
 ---
 
-> ⚠️ **已弃用** — 此技能在 my-skills v2（2026-07）中已被重命名为 `0-询问luohe`（中文版路由器），路由表和架构已全面升级。请参考 [[my-skills v2 开发工作流技能体系]] 了解最新结构。
+> ⚠️ **已弃用** — 此技能在 my-skills v2（2026-07）中已被重命名为 `0-询问luohe`（中文版路由器），路由表和架构已全面升级。请参考 [[my-skills 开发工作流技能体系]] 了解最新结构。
 
 # use-skills — 智能技能调度器
 

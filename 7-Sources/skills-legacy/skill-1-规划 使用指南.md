@@ -13,7 +13,7 @@ source: "https://github.com/617luohe/my-skills"
 skill: "1-规划"
 ---
 
-> ⚠️ **已弃用** — 此技能在 my-skills v2（2026-07）中已被重构：`1-规划` 现委托 `vocabulary/grilling` + `vocabulary/domain-modeling` 执行核心逻辑，流程已精简。请参考 [[my-skills v2 开发工作流技能体系]] 了解最新结构。
+> ⚠️ **已弃用** — 此技能在 my-skills v2（2026-07）中已被重构：`1-规划` 现委托 `vocabulary/grilling` + `vocabulary/domain-modeling` 执行核心逻辑，流程已精简。请参考 [[my-skills 开发工作流技能体系]] 了解最新结构。
 
 # 1-规划 — 方案设计与任务拆解
 

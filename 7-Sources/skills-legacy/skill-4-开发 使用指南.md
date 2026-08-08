@@ -13,7 +13,7 @@ source: "https://github.com/617luohe/my-skills"
 skill: "4-开发"
 ---
 
-> ⚠️ **已弃用** — 此技能在 my-skills v2（2026-07）中已被重编号为 `2-开发`，核心 TDD 逻辑已提取到 `vocabulary/tdd`，阶段技能本身精简为编排入口。请参考 [[my-skills v2 开发工作流技能体系]] 了解最新结构。
+> ⚠️ **已弃用** — 此技能在 my-skills v2（2026-07）中已被重编号为 `2-开发`，核心 TDD 逻辑已提取到 `vocabulary/tdd`，阶段技能本身精简为编排入口。请参考 [[my-skills 开发工作流技能体系]] 了解最新结构。
 
 # 4-开发 — TDD 编码实现
 

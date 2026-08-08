@@ -9,7 +9,7 @@ created: 2026-07-27
 status: published
 confidence: budding
 source: "https://github.com/617luohe/my-skills"
-related: "[[my-skills v2 开发工作流技能体系]]"
+related: "[[my-skills 开发工作流技能体系]]"
 ---
 
 # my-skills 部署与治理指南
@@ -209,7 +209,7 @@ done
 
 ## 七、相关笔记
 
-- [[my-skills v2 开发工作流技能体系]] — 全体系概览
+- [[my-skills 开发工作流技能体系]] — 全体系概览
 - [[my-skills vocabulary 核心层详解]] — 5 个 vocabulary 核心
-- [[my-skills v2 深度分析报告]] — 架构分析
+- [[my-skills 深度分析报告]] — 架构分析
 - [[MOC-my-skills v2]] — v2 技能体系总索引
