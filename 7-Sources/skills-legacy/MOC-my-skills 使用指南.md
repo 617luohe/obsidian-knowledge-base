@@ -8,6 +8,7 @@ tags:
 created: 2026-06-18
 updated: 2026-07-27
 status: deprecated
+confidence: evergreen
 ---
 
 > ⚠️ **已弃用** — 此 MOC 索引的是 my-skills v1（13 个技能，0-9 编号体系），已在 v2（2026-07）中全面重构。请参考新的 [[MOC-my-skills v2]] 了解最新技能索引。

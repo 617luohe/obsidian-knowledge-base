@@ -6,6 +6,7 @@ tags:
   - domain/life/grooming
 created: 2026-05-29
 status: active
+confidence: evergreen
 ---
 
 # MOC-双面剃须刀剃须体系

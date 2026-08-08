@@ -7,6 +7,7 @@ tags:
 created: 2026-05-26
 updated: 2026-07-27
 status: active
+confidence: evergreen
 ---
 
 # MOC-Tech Tools
@@ -17,6 +18,8 @@ status: active
 
 - [[Claude Code Windows 安装与配置]] — Windows 系统从零安装 Claude Code CLI 的完整步骤
 - [[CC Switch 配置与使用]] — 一键切换 Claude Code 供应商/模型的开源桌面应用
+- [[Claude Code Hooks 体系分析]] — hook 事件链路与注册配置分析
+- [[Claude Code MCP 工具配置]] — MCP Server 安装与配置总结
 - [[Skills Manager 技能管理]] — 跨 15+ AI 工具的 Agent Skills 统一管理平台
 - [[my-skills 开发工作流技能体系]] — 全生命周期 Claude Code 技能链（v2：24 技能，三层架构）
 - [[my-skills 深度分析报告]] — 📊 v2 24 技能体系架构深度分析 + v1→v2 迁移指南

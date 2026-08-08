@@ -6,6 +6,7 @@ tags:
   - domain/finance/trading
 created: 2026-05-29
 status: active
+confidence: evergreen
 ---
 
 # MOC-Vegas 交易系统

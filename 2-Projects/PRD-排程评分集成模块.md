@@ -7,6 +7,8 @@ tags:
   - status/completed
 created: 2026-05-27
 updated: 2026-05-27
+status: completed
+confidence: evergreen
 ---
 
 # PRD: 排程评分集成模块

@@ -5,6 +5,8 @@ tags:
   - domain/manufacturing
 created: 2026-05-27
 updated: 2026-05-27
+status: draft
+confidence: seed
 ---
 
 # 热轧排程项目文档集
